@@ -1,8 +1,8 @@
 {
     "candidatos": [
         {
-            "nombre": "Candidato A",
-            "partido": "Partido X",
+            "nombre": "Gonzalo Winter",
+            "partido": "Frente Amplio",
             "programa": {
                 "educacion": "Propuesta educativa del Candidato A.",
                 "salud": "Propuesta de salud del Candidato A.",
@@ -11,6 +11,22 @@
         },
         {
             "nombre": "Candidato B",
+            "partido": "Partido Y",
+            "programa": {
+                "educacion": "Propuesta educativa del Candidato B.",
+                "salud": "Propuesta de salud del Candidato B.",
+                "economia": "Propuesta económica del Candidato B."
+            }
+             {
+            "nombre": "Candidato c",
+            "partido": "Partido Y",
+            "programa": {
+                "educacion": "Propuesta educativa del Candidato B.",
+                "salud": "Propuesta de salud del Candidato B.",
+                "economia": "Propuesta económica del Candidato B."
+            }
+             {
+            "nombre": "Candidato d",
             "partido": "Partido Y",
             "programa": {
                 "educacion": "Propuesta educativa del Candidato B.",
